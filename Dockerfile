@@ -1,3 +1,3 @@
-FROM ghcr.io/swx1997/repo:master
+FROM ghcr.io/username/repo:master
 
 ENTRYPOINT ["/entrypoint.sh"]
